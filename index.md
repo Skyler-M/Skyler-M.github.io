@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-<div class="col-sm-12"><p>This is a test!</p></div>
+<div class="col-sm-12"><div class="col-sm-6"><p>This is a test!</p></div><div class="col-sm-6">Other text test?</div></div>
 
 There should be whitespace between paragraphs.
 
